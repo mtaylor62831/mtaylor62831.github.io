@@ -1,3 +1,6 @@
 # mtaylor62831.github.io
 
-This is a project to create randomized blackout poetry from the data in <p> tags using a little bookmarklet.
+This is an experiment in using text parsing with a script to create random poetry similar to newspaper blackout poems.
+Primarily it's for me to get in some practice with js.
+
+For a more sophisticated example that check out Max Kremlin's code here: https://mkremins.github.io/blackout/
