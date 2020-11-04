@@ -1,7 +1,12 @@
 body{
-    background-color: lightpink;
+    background-color: lightblue;
 }
 
 #headerImg {
-    border-radius: 100%;
+    border-radius: 50%;
+    border: 1px solid brown;
+}
+
+.tile {
+    background-color: white;
 }
