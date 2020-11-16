@@ -1,12 +1,26 @@
 body{
     background-color: lightblue;
+    font-family: 'Montserrat', sans-serif;
+    width: 90%;
+    margin: auto;
+    text-align: center;
 }
 
 #headerImg {
     border-radius: 50%;
-    border: 1px solid brown;
+    border: 1px solid black;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
 }
 
 .tile {
     background-color: white;
+    border: 1px solid black;   
+}
+
+h1, h2 {
+    font-family: 'Open Sans', sans-serif;
 }
