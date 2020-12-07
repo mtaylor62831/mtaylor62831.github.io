@@ -1,24 +1,20 @@
 body{
-    background-color: lightblue;
+    background-color: #bdbec7;
     font-family: 'Montserrat', sans-serif;
-    width: 90%;
-    margin: auto;
-    text-align: center;
+    color: #2a3551;
+}
+
+.header {
+    background-color: #2a3551;
+    color: #fef3d7;
+    margin: none;
+    padding: none;
+    width: 100%;
 }
 
 #headerImg {
     border-radius: 50%;
-    border: 1px solid black;
-}
-
-.container {
-    display: flex;
-    flex-direction: column;
-}
-
-.tile {
-    background-color: white;
-    border: 1px solid black;   
+    border: 1px solid #2a3551;
 }
 
 h1, h2 {

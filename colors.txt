@@ -1,7 +1,8 @@
 Sunset color scheme
 
-"Honey Yellow":"F9B001"
-"Roman Silver":"7F8191"
-"Independence":"374665"
-"Y In Mn Blue":"384F71"
-"Queen Blue":"476889"
+Space Cadet:2a3551 navy
+Blue Yonder:576a9e mid dusk blue
+Cerulean Frost:849dc2 light blue
+Lavender Gray:bdbec7 light grey with purple
+Cornsilk:fef3d7 beigey
+Sunglow:fec848 sunnny
