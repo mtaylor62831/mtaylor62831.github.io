@@ -1,0 +1,7 @@
+Sunset color scheme
+
+"Honey Yellow":"F9B001"
+"Roman Silver":"7F8191"
+"Independence":"374665"
+"Y In Mn Blue":"384F71"
+"Queen Blue":"476889"
