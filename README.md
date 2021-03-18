@@ -1,3 +1,6 @@
 # mtaylor62831.github.io
 
-Using github to create a personal website.
+Personal homepage using github pages.
+
+
+3-15-21 Updates:
